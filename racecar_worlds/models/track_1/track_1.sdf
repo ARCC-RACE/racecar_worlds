@@ -6,7 +6,7 @@
       <collision name="track_1_collision">
         <geometry>
           <mesh>
-            <uri>model://pool/meshes/StadiumLarge.DAE</uri>
+            <uri>model://track_1/meshes/StadiumLarge.DAE</uri>
           </mesh>
         </geometry>
       </collision>
@@ -14,7 +14,7 @@
         <cast_shadows>true</cast_shadows>
         <geometry>
           <mesh>
-            <uri>model://pool/meshes/pool.dae</uri>
+            <uri>model://track_1/meshes/StadiumLarge.DAE</uri>
           </mesh>
         </geometry>
       </visual>
