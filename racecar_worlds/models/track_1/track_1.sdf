@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<sdf version="1.5">
+  <model name="track_1">
+    <static>true</static>
+    <link name="track_1_link">
+      <collision name="track_1_collision">
+        <geometry>
+          <mesh>
+            <uri>model://pool/meshes/StadiumLarge.DAE</uri>
+          </mesh>
+        </geometry>
+      </collision>
+      <visual name="track_1_visual">
+        <cast_shadows>true</cast_shadows>
+        <geometry>
+          <mesh>
+            <uri>model://pool/meshes/pool.dae</uri>
+          </mesh>
+        </geometry>
+      </visual>
+    </link>
+  </model>
+</sdf>
