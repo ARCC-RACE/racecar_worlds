@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <sdf version="1.4">
-  <world name="track_3_world">
+  <world name="track_2_world">
 
     <!-- Global light source -->
     <include>
@@ -24,8 +24,8 @@
 
       <!--Add custom track/stadium model-->
       <include>
-        <uri>model://track_3</uri>
-        <pose>0 0 0 0 0 0</pose>
+        <uri>model://track_2</uri>
+        <pose>-257.730469 206.677490 -0.250000 1.570796327 0 0</pose>
       </include>
 
   </world>
