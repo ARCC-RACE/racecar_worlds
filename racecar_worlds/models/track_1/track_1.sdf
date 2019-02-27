@@ -9,6 +9,19 @@
             <uri>model://track_1/meshes/StadiumLarge.DAE</uri>
           </mesh>
         </geometry>
+        <max_contacts>10</max_contacts>
+        <surface>
+          <contact>
+            <ode/>
+          </contact>
+          <bounce/>
+          <friction>
+            <ode>
+              <mu>100</mu>
+              <mu2>50</mu2>
+            </ode>
+          </friction>
+        </surface>
       </collision>
       <!-- <collision name="track_1_collision">
         <pose frame=''> 200 -8.55 200 1.5708 0 0</pose>
