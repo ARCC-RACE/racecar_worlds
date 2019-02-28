@@ -17,7 +17,6 @@
             <size>500 500 0.05</size>
           </box>
         </geometry> -->
-      </collision>
       <visual name="track_2_visual">
         <cast_shadows>true</cast_shadows>
         <geometry>

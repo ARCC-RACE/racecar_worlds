@@ -9,7 +9,7 @@
             <uri>model://track_1/meshes/StadiumLarge.DAE</uri>
           </mesh>
         </geometry>
-        <max_contacts>10</max_contacts>
+        <!-- <max_contacts>10</max_contacts> -->
         <!-- <surface>
           <contact>
             <ode/>
