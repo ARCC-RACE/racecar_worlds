@@ -26,7 +26,7 @@
       <!--Add custom track/stadium model-->
       <include>
         <uri>model://track_1</uri>
-        <pose>9.659724 8.909332 8.487329 1.570796327 0 0</pose>
+        <pose>9.659724 7 8.487329 1.570796327 0 0</pose>
       </include>
 
   </world>
