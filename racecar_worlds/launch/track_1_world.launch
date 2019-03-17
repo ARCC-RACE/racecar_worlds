@@ -2,5 +2,6 @@
   <include file="$(find gazebo_ros)/launch/empty_world.launch">
     <arg name="world_name" value="$(find racecar_worlds)/worlds/track_1_world.world"/>
     <arg name="verbose" default="true"/>
+    <arg name="respawn_gazebo" default="true"/>
   </include>
 </launch>
