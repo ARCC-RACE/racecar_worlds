@@ -1,11 +1,16 @@
 # racecar_worlds
 Contains various ROS gazebo worlds for simulating the autonmous racecar in.  
 
+In order to run a newer version of gazebo follow the steps below:
+* https://github.com/CentroEPiaggio/iliad_wiki/wiki/1.-ROS-Kinetic-and-Gazebo8-setup
+* http://gazebosim.org/tutorials?tut=install_ubuntu
+* http://gazebosim.org/tutorials/?tut=ros_wrapper_versions
+
 Current Worlds  
 track 1: http://www.cadnav.com/3d-models/model-40941.html  
 track 2: http://www.cadnav.com/3d-models/model-34168.html  
 track 3: http://www.cadnav.com/3d-models/model-34864.html  
-  
+
 Future Worlds  
 track 4: http://www.cadnav.com/3d-models/model-38001.html  
 track 5: https://3dwarehouse.sketchup.com/model/u255383dc-6d46-4bd8-912d-f73b11060cba/Olympic-running-Track-and-field  
